@@ -3,7 +3,7 @@
 ## Key components
 - Decentralization / Architecture
 - Smart contracts
-- Tokenization / NFTS (ERC-20,BRC-20,SPL)
+- Tokenization / NFTS
 - Exchanges 
 - Metaverse
 - Oracles, cross-chain integration
